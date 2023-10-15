@@ -35,7 +35,7 @@
 
 ## Vamos Conectar!
 
-Você pode me encontrar em:  
+Você pode me encontrar no:  
 <a href="https://www.linkedin.com/in/luiz-evans">![LinkedInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="https://medium.com/@luiz.paulo.evangelista">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 Fique à vontade para explorar meus repositórios e projetos. Se tiver alguma pergunta ou quiser entrar em contato, não hesite em me enviar uma mensagem no LinkedIn.
