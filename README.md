@@ -1,7 +1,5 @@
-# Olá, eu sou Luiz Evangelista! 👋
-
-## Sobre mim
-
+# **Olá, eu sou Luiz Evangelista!** 👋  
+## **Sobre mim**
 :mortar_board: Graduado em Gestão da Tecnologia da Informação.  
 :mortar_board: Pós-graduado em:  
       :bar_chart: Ciência de Dados  
