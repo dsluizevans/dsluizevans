@@ -4,10 +4,10 @@
 
 :mortar_board: Graduado em Gestão da Tecnologia da Informação.  
 :mortar_board: Pós-graduado em:  
-      :bar_chart: Cientista de Dados  
-      :bar_chart: Analista de Dados  
+      :bar_chart: Ciência de Dados  
+      :bar_chart: Análise de Dados  
       :chart_with_upwards_trend: Big Data e Inteligência Competitiva  
-      :chart_with_downwards_trend: Analista e Consultor CRM
+:chart_with_downwards_trend: Analista e Consultor CRM
 
 ## Minhas Habilidades
 
@@ -15,23 +15,23 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="36" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="36"/>
 
-1. Análise de dados e estatísticas  
-    - NumPy
-    - Pandas
-    - SciPy
-    - StatsModels
-2. Inteligência Artificial, Machine Learning e Deep Learning
-    - TensorFlow  
-    - Keras
-    - PyTorch
-    - Scikit-Learn  
-3. Visualização de dados
-    - Matplotlib
-    - Plotly
-    - Seaborn  
-    - Bokeh
-4. Automações  
-    - Selenium
+**1. Análise de dados e estatísticas**  
+    - NumPy  
+    - Pandas  
+    - SciPy  
+    - StatsModels  
+**2. Inteligência Artificial, Machine Learning e Deep Learning**  
+    - TensorFlow    
+    - Keras  
+    - PyTorch  
+    - Scikit-Learn     
+**3. Visualização de dados**  
+    - Matplotlib  
+    - Plotly  
+    - Seaborn    
+    - Bokeh    
+**4. Automações**    
+    - Selenium  
 
 ## Vamos Conectar!
 
