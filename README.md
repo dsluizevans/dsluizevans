@@ -26,7 +26,7 @@
 **4. Integrações**  
     `- Pentaho`  
     `- API Rest`    
-    `- CRM`   
+    `- TOTVS CRM`   
     `- Protheus TOTVS` 
 
 ## Vamos Conectar!
