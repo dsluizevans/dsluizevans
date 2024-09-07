@@ -7,29 +7,27 @@
       :chart_with_upwards_trend: Big Data e Inteligência Competitiva  
 :chart_with_downwards_trend: Analista e Consultor CRM
 
-## Minhas Habilidades
-
-:dart:Atualmente, estou focado em:  
+## Minhas Habilidades    
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="36" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="36"/>
 
 **1. Análise de dados e estatísticas**  
+    `- SQL`  
     `- NumPy`  
     `- Pandas`  
-    `- SciPy`  
-    `- StatsModels`  
-**2. Inteligência Artificial, Machine Learning e Deep Learning**  
-    `- TensorFlow`    
-    `- Keras`  
-    `- PyTorch`  
-    `- Scikit-Learn`     
-**3. Visualização de dados**  
+    `- SciPy`      
+**2. Visualização de dados**  
     `- Matplotlib`  
     `- Plotly`  
     `- Seaborn`    
-    `- Bokeh`    
-**4. Automações**    
+    `- Power BI`  
+**3. Automações**    
     `- Selenium`  
+**4. Integrações**  
+    `- Pentaho`  
+    `- API Rest`    
+    `- CRM`   
+    `- Protheus TOTVS` 
 
 ## Vamos Conectar!
 
